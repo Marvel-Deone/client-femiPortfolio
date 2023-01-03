@@ -2,13 +2,13 @@
 const About = () => {
     return (
         <section className="about" id="about">
-            <div className="round-shape4">
+            {/* <div className="round-shape4">
                 <img src="assets/images/round-shape4.png" alt="" />
             </div>
             <div className="round-shape6">
                 <img src="assets/images/round-shape6.png" alt="" />
-            </div>
-            <img className="shape" src="assets/images/shape1.png" alt="" />
+            </div> */}
+            {/* <img className="shape" src="assets/images/shape1.png" alt="" /> */}
             <div className="container">
                 <div className="row">
                     <div className="col-xl-6 d-flex align-self-center">

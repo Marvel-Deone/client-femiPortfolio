@@ -18,6 +18,9 @@ const Definition = () => {
                     Clear and readble texts and instructions.
                 </h2>
             </div>
+            {/* <div className="bg-blue-700 h-[40rem]"> */}
+            <iframe title="prototype" className="bg-transparent" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcQsrCQOIi3PODesP1jeU5B%2Fhealth-pass-new%3Fpage-id%3D0%253A1%26node-id%3D1%253A433%26viewport%3D468%252C211%252C0.13%26scaling%3Dcontain%26starting-point-node-id%3D1%253A433" allowfullscreen></iframe>
+            {/* </div> */}
         </div>
     )
 }

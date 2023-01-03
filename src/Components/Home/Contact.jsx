@@ -36,12 +36,12 @@ const Contact = () => {
 
     return (
         <section className="contact" id="contact">
-            <div className="round-shape4">
+            {/* <div className="round-shape4">
                 <img src="assets/images/round-shape4.png" alt="" />
             </div>
             <div className="round-shape6">
                 <img src="assets/images/round-shape6.png" alt="" />
-            </div>
+            </div> */}
             <div className="container">
                 <div className="row justify-content-center">
                     <div className="col-md-10 col-lg-8">

@@ -6,16 +6,16 @@ const Projects = () => {
         {
             asset: 'assets/images/work/7.jpg',
             link: '/airpeace-ux-case-study',
-            tag: 'UI Design | User Experience',
-            projectName: 'Airpeace Airline app Hi',
+            tag: 'Mobile App',
+            projectName: 'Airpeace Airline app',
             category: 'ui',
             popup: false
         },
         {
             asset: 'assets/images/work/1.jpg',
             link: '/health-pass-case-study',
-            tag: 'Design | Branding',
-            projectName: 'Creative Web Design',
+            tag: 'Mobile App',
+            projectName: 'Health Pass app',
             category: 'management',
             popup: false
         },
