@@ -20,7 +20,7 @@ const Projects = () => {
             popup: false
         },
     ]
-    const [allProjects, setAllProjects] = useState(projects)
+    const [allProjects] = useState(projects)
     // const filter = (category) => {
     //     const updateProjects = projects.filter((project) => {
     //         return project.category === category
