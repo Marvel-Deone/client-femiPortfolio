@@ -301,13 +301,12 @@
    font-size: 35px !important;
    color: #242424;;
    font-weight: 700;
+   display: none;
   }
   #hero-title2 {
-    display: none;
     font-size: 35px !important;
   color: #242424;;
   font-weight: 700;
-  background-color: yellow;
  }
 
 .section-title {
@@ -594,6 +593,10 @@
 @media only screen and (max-width: 991px) {
   #hero-title {
     font-size: 24px !important;
+    display: block !important;
+  }
+  #hero-title {
+    display: none !important;
   }
   .hero-area {
     padding: 95px 0px 150px !important; 
