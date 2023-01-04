@@ -54,7 +54,7 @@ const SolutionPreview = () => {
                     <div className="relative w-fit mx-auto h-[28rem] md:h-[36rem] flex">
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
-                        <img src="assets/images/3.png"
+                        <img src="assets/images/airpeace-3.png"
                             className="absolute mx-auto top-0 h-[28rem] md:h-[36rem] object-cover" alt="" />
                     </div>
                     <div className="flex flex-col my-auto gap-3 md:gap-12">
