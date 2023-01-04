@@ -20,18 +20,17 @@ const Overview = () => {
                 <div className="flex gap-5 md:gap-52">
                     <div className="flex flex-col gap-1">
                         <h3 className="font-semibold text-base leading-7 text-[#111111]">Role</h3>
-                        <p className="text-base font-normal text-[#111111]">Ux Research</p>
+                        <p className="text-base font-normal text-[#111111]">UX Research</p>
                         <p className="text-base font-normal text-[#111111]">UI Design</p>
                     </div>
                     <div className="flex flex-col gap-1">
-                        <h3 className="font-semibold text-base leading-7 text-[#111111]">Role</h3>
-                        <p className="text-base font-normal text-[#111111]">Ux Research</p>
-                        <p className="text-base font-normal text-[#111111]">UI Design</p>
+                        <h3 className="font-semibold text-base leading-7 text-[#111111]">Duration</h3>
+                        <p className="text-base font-normal text-[#111111]">2 months</p>
                     </div>
                     <div className="flex flex-col gap-1">
-                        <h3 className="font-semibold text-base leading-7 text-[#111111]">Role</h3>
-                        <p className="text-base font-normal text-[#111111]">Ux Research</p>
-                        <p className="text-base font-normal text-[#111111]">UI Design</p>
+                        <h3 className="font-semibold text-base leading-7 text-[#111111]">Team</h3>
+                        <p className="text-base font-normal text-[#111111]">UX/UI designers, Developers, QA</p>
+                        <p className="text-base font-normal text-[#111111]">Product managers, Stakeholders</p>
                     </div>
                 </div>
             </div>
