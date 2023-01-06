@@ -35,7 +35,8 @@ const About = () => {
                     </div>
 
                     <div className="col-xl-6">
-                        <img className="about-img" src="assets/images/work/full2.JPEG" alt="" width={'500px'} height={'600px'} />
+                        <img className="about-img" src="assets/images/about-me.jpg" alt="" width={'500px'} height={'600px'} />
+                        {/* <img className="about-img" src="" alt="" width={'500px'} height={'600px'} /> */}
                     </div>
 
                 </div>

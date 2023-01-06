@@ -4,9 +4,9 @@ const NextProject = () => {
             <div className="flex flex-col gap-8 md:gap-0">
                 <div className="flex flex-col md:flex-row gap-4 md:gap-16">
                     <div className="flex flex-col my-auto gap-4">
-                        <h2 className="text-lg text-[#111111]">Next Project</h2>
+                        <h2 className="text-lg text-[#111111] hover:text-blue-700 transition-all duration-300 ease-in-out cursor-pointer">Next Project</h2>
                         <div className="flex gap-8 items-center">
-                            <p className="text-5xl font-medium text-[#111111]">Air Peace</p>
+                            <p className="text-5xl font-medium text-[#111111] hover:text-blue-700 transition-all duration-300 ease-in-out cursor-pointer">Air Peace</p>
                             <img src="assets/images/arrow.png" alt="" className="w-[25px] h-[26px]" />
                         </div>
                     </div>
