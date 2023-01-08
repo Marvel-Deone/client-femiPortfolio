@@ -2,7 +2,9 @@
 const Hero = () => {
     return (
         // Hero Area Start
-        <div id="home" className="hero-area" style={{ backgroundColor: 'white', paddingLeft: '40px', paddingRight: '40px' }}>
+
+        <div className="hero-area" style={{ backgroundColor: 'white', paddingLeft: '95px', paddingRight: '40px' }}>
+            {/* <div className="background"></div> */}
             <div className="col-lg-6 d-flex align-self-center">
                 <div className="left-content">
                     <div className="content">
@@ -16,7 +18,10 @@ const Hero = () => {
                     </div>
                 </div>
             </div>
-            <img src="assets/images/work/1.jpg" alt="hero-section" width={600} />
+
+            {/* <img src="assets/images/heroarea/one/bg.png" alt="" /> */}
+            {/* <img src="asseets/images" alt="" /> */}
+            {/* <img src="assets/images/work/1.jpg" alt="hero-section" width={600} /> */}
         </div>
         // Hero Area End
     )

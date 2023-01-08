@@ -1,7 +1,7 @@
 const Validating = () => {
     return (
         <div
-            className="max-w-7xl p-6 mx-auto -translate-y-[7rem] md:-translate-y-[15rem] flex flex-col gap-3 md:gap-4 mb-20">
+            className="max-w-8xl p-6 mx-auto -translate-y-[7rem] md:-translate-y-[15rem] flex flex-col gap-3 md:gap-4 mb-20">
             <div className="max-w-7xl md:px-6 lg:px-8 xl:px-36 flex flex-col gap-4 md:mb-8">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-sm md:text-base mb-2 md:mb-0">Validating
                     Product ideas with User Testing</h2>

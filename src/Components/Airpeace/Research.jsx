@@ -1,6 +1,6 @@
 const Research = () => {
     return (
-        <div className="max-w-5xl mx-auto -translate-y-[10rem] md:-translate-y-[17.5rem] p-4 md:p-18 flex flex-col gap-3">
+        <div className="max-w-6xl mx-auto -translate-y-[10rem] md:-translate-y-[17.5rem] p-4 flex flex-col gap-3">
             <h2 className="text-[#111111] font-normal leading-4 text-lg md:text-2xl mb-2 md:mb-0 md:px-6">Research</h2>
             {/* Research Start */}
             <div className="flex flex-col md:px-6 gap-3 md:gap-4 mb-20">
@@ -49,7 +49,7 @@ const Research = () => {
                 {/* Research End */}
             </div>
             {/* Initial Competitive analysis */}
-            <div className="max-w-5xl mx-auto flex flex-col gap-3 md:gap-4 md:px-6">
+            <div className="max-w-6xl mx-auto flex flex-col gap-3 md:gap-4 md:px-6">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-sm tracking-wide mb-2 md:mb-0">
                     Initial competitive analysis</h2>
                 <div className="flex flex-col gap-3">
@@ -96,7 +96,7 @@ const Research = () => {
                 </div>
             </div>
             {/* Focusing on the my target audience */}
-            <div className="max-w-5xl flex flex-col gap-3 lg:mt-28 md:gap-4">
+            <div className="max-w-6xl flex flex-col gap-3 lg:mt-28 md:gap-4">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-sm tracking-wide mb-2 md:mb-0 text-center">
                     Focusing on my target audience</h2>
                 <div className="flex flex-col gap-14 md:px-6 md:gap-16">

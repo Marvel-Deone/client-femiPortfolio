@@ -6,9 +6,9 @@ const TailNav = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12 p-0">
-                        <nav className="navbar navbar-expand-lg justify-content-between p-10 navbar-light">
+                        <nav className="navbar navbar-expand-lg justify-content-between navbar-light" style={{ paddingLeft: '70px' }}>
                             <Link className="navbar-brand" to="/">
-                                <img src="assets/images/gcf2.png" alt="" />
+                                <img src="assets/images/gcf2.png" alt="" width={150} />
                             </Link>
                             <div id="mainmenu">
                                 <ul className="navbar-nav ml-auto">
