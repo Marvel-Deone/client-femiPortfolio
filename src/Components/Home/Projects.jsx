@@ -1,11 +1,12 @@
 import { useState } from "react"
+import { Link } from "react-router-dom"
 
 
 const Projects = () => {
     const projects = [
         {
             asset: 'assets/images/work/7.jpg',
-            link: '/airpeace-ux-case-study',
+            link: '/airpeace',
             tag: 'Mobile App',
             projectName: 'Airpeace Airline app',
             category: 'ui',
@@ -13,7 +14,7 @@ const Projects = () => {
         },
         {
             asset: 'assets/images/work/1.jpg',
-            link: '/health-pass-case-study',
+            link: '/health',
             tag: 'Mobile App',
             projectName: 'Health Pass app',
             category: 'management',
@@ -51,12 +52,12 @@ const Projects = () => {
                                             <div className="content-overlay">
                                                 <div className="content">
                                                     <div className="links">
-                                                        {item.popup ? (<a className="img-popup image-preview" href={item.link}>
+                                                        {item.popup ? (<Link className="img-popup image-preview" to={item.link}>
                                                             <i className="fas fa-long-arrow-alt-right"></i>
-                                                        </a>) : (
-                                                            <a href={item.link}>
+                                                        </Link>) : (
+                                                            <Link to={item.link}>
                                                                 <i className="fas fa-long-arrow-alt-right"></i>
-                                                            </a>
+                                                            </Link>
                                                         )}
                                                     </div>
                                                     <div className="info">
