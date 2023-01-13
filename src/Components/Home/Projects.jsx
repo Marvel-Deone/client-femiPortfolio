@@ -6,7 +6,7 @@ const Projects = () => {
     const projects = [
         {
             asset: 'assets/images/work/7.jpg',
-            link: '/airpeace',
+            link: '/airpeace-case-study',
             tag: 'Mobile App',
             projectName: 'Airpeace Airline app',
             category: 'ui',
@@ -14,7 +14,7 @@ const Projects = () => {
         },
         {
             asset: 'assets/images/work/1.jpg',
-            link: '/health',
+            link: '/health-case-study',
             tag: 'Mobile App',
             projectName: 'Health Pass app',
             category: 'management',

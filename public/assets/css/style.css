@@ -595,7 +595,7 @@
     font-size: 24px !important;
     display: block !important;
   }
-  #hero-title {
+  #hero-title2 {
     display: none !important;
   }
   
@@ -1166,7 +1166,7 @@ select:focus {
 /*---------------------------
 ** About Area Start
 ---------------------------*/
-.about {
+.about  {
   padding: 119px 0px 120px;
   position: relative;
   overflow: hidden; }
