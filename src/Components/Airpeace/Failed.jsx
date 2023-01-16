@@ -2,7 +2,7 @@ const Failed = () => {
     return (
         <div
             className="max-w-8xl mx-auto -translate-y-[10rem] md:-translate-y-[15rem] flex flex-col py-6 gap-3 md:gap-4 mb-20">
-            <div className="max-w-7xl md:px-4 lg:px-28 flex flex-col gap-4 md:mb-2">
+            <div className="max-w-7xl px-3 md:px-0 md:px-4 lg:px-28 flex flex-col gap-4 md:mb-2">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-sm md:text-base mb-2 md:mb-0 text-center">We
                     failed to solve air travellers problem of booking a flight</h2>
                 <p className="text-sm md:text-base text-[#111111] font-[400]">From the feedback we got from frequent air
