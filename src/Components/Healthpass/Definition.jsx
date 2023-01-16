@@ -1,7 +1,7 @@
 const Definition = () => {
     return (
         <div
-            className="w-full flex md:flex-row justify-between flex-col md:gap-10 gap-20 mx-auto bg-[#273C75] h-auto py-10 md:py-24 px-28">
+            className="w-full flex md:flex-row justify-between flex-col md:gap-10 gap-20 mx-auto bg-[#273C75] h-auto py-10 md:py-24 px-4 md:px-28">
             <div className="w-full md:w-2/5">
                 <h2 className="font-semibold leading-4 text-base text-[#FBFBFB]">Defining the problem</h2>
                 <h2 className="text-white text-[15px] mt-5">Who am i designing for ? and what challenges are
