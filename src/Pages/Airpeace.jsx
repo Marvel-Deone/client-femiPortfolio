@@ -4,6 +4,7 @@ import DesignChallenge from "../Components/Airpeace/DesignChallenge";
 import Failed from "../Components/Airpeace/Failed";
 import FinalSol from "../Components/Airpeace/FinalSol";
 import Hero from "../Components/Airpeace/Hero";
+import NextProject from "../Components/Airpeace/NextProject";
 import Overview from "../Components/Airpeace/Overview";
 import Research from "../Components/Airpeace/Research";
 import SolutionPreview from "../Components/Airpeace/SolutionPreview";
@@ -28,6 +29,7 @@ const Airpeace = () => {
             <Validating />
             <Failed />
             <FinalSol />
+            <NextProject />
             <Footer />
         </div>
     )

@@ -1,9 +1,9 @@
 const Research = () => {
     return (
-        <div className="max-w-6xl mx-auto -translate-y-[10rem] md:-translate-y-[17.5rem] p-4 flex flex-col gap-3">
-            <h2 className="text-[#111111] font-normal leading-4 text-lg md:text-2xl mb-2 md:mb-0 md:px-6">Research</h2>
+        <div className="max-w-6xl mx-auto -translate-y-[10rem] md:-translate-y-[17.5rem] p-3 flex flex-col gap-3">
+            <h2 className="text-[#111111] font-normal leading-4 text-lg md:text-2xl mb-2 md:mb-0">Research</h2>
             {/* Research Start */}
-            <div className="flex flex-col md:px-6 gap-3 md:gap-4 mb-20">
+            <div className="flex flex-col gap-3 md:gap-4 mb-20">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-sm md:text-base md:text-center mb-2 md:mb-0">
                     Exploring user
                     pain points</h2>
@@ -21,7 +21,7 @@ const Research = () => {
                             flight
                             ticket?”</p>
                     </div>
-                    <div className="flex flex-col md:flex-row gap-6 flex-wrap">
+                    <div className="flex mx-auto flex-col md:flex-row gap-6 flex-wrap">
                         <div
                             className="w-52 h-52 bg-[#F5E9EA] rounded-full flex flex-col text-center justify-center px-4 py-3 gap-2">
                             <h2 className="text-4xl font-semibold text-[#111111]">84%</h2>
@@ -49,7 +49,7 @@ const Research = () => {
                 {/* Research End */}
             </div>
             {/* Initial Competitive analysis */}
-            <div className="max-w-6xl mx-auto flex flex-col gap-3 md:gap-4 md:px-6">
+            <div className="max-w-6xl mx-auto flex flex-col gap-3 md:gap-4">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-sm tracking-wide mb-2 md:mb-0">
                     Initial competitive analysis</h2>
                 <div className="flex flex-col gap-3">
@@ -99,7 +99,7 @@ const Research = () => {
             <div className="max-w-6xl flex flex-col gap-3 lg:mt-28 md:gap-4">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-sm tracking-wide mb-2 md:mb-0 text-center">
                     Focusing on my target audience</h2>
-                <div className="flex flex-col gap-14 md:px-6 md:gap-16">
+                <div className="flex flex-col gap-14 md:gap-16">
                     <div className="flex flex-col md:gap-3 lg:gap-6">
                         <p className="text-[#111111] text-base md:text-[20px] lg:text-[27px] font-[500] leading-snug mt-6">
                             M/F , Age
@@ -129,7 +129,7 @@ const Research = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="flex flex-col gap-3 p-2">
+                    <div className="flex flex-col gap-3">
                         <div className="flex flex-col gap-4">
                             <h2 className="text-[#111111] font-semibold leading-4 text-lg md:text-2xl mb-2 md:mb-0">Design
                             </h2>

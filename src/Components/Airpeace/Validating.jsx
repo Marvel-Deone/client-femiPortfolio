@@ -1,8 +1,8 @@
 const Validating = () => {
     return (
         <div
-            className="max-w-8xl p-6 mx-auto -translate-y-[7rem] md:-translate-y-[15rem] flex flex-col gap-3 md:gap-4 mb-20">
-            <div className="max-w-7xl md:px-6 lg:px-8 xl:px-36 flex flex-col gap-4 md:mb-8">
+            className="max-w-8xl mx-auto -translate-y-[7rem] md:-translate-y-[15rem] flex flex-col gap-3 md:gap-4 mb-20">
+            <div className="max-w-7xl lg:px-28 flex flex-col gap-4 md:mb-8">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-sm md:text-base mb-2 md:mb-0">Validating
                     Product ideas with User Testing</h2>
                 <p className="text-sm md:text-base text-[#111111] font-[400]">I led a few moderated
@@ -11,8 +11,8 @@ const Validating = () => {
                     travel site. We tried to find <br /> out how users responded to the application.
                 </p>
             </div>
-            <div className="md:px-6 lg:px-8 xl:px-24">
-                <div className="bg-[#F5F4F3] p-6 md:p-10 lg:p-12">
+            <div className="md:px-6 lg:px-8 xl:px-14">
+                <div className="bg-[#F5F4F3] p-6 md:p-10 lg:p-14">
                     <p className="mt-1 md:mt-0">1.) I used Zoom and Google meet to conduct remote usability
                         tests, due to long
                         distances it was not possible to conduct face to face usability testing.</p>

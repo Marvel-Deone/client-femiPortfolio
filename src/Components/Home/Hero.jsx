@@ -13,7 +13,7 @@ const Hero = () => {
                                 <p className="subtitle" style={{ fontWeight: '500px' }}>Hi, I'm Olorunfemi</p>
 
                                 <p id="hero-title">I design easy-to-use <br /> mobile and web solutions <br /> through empathy and communications.</p>
-                                <p id="hero-title2">I design easy-to-use <br /> mobile and web solutions through empathy and communication.</p>
+                                <p id="hero-title2">I design easy-to-use <br /> mobile and web solutions <br /> through empathy and communication.</p>
                                 <div className="links">
 
                                 </div>

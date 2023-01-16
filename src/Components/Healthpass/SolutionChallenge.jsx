@@ -1,6 +1,6 @@
 const SolutionChallenge = () => {
     return (
-        <div className="max-w-6xl mx-auto md:p-20">
+        <div className="max-w-6xl mx-auto md:py-20">
             <h2 className="text-[#111111] p-4 font-semibold leading-4 text-base mb-2">
                 What i did</h2>
             <div className="flex flex-col gap-8 md:gap-0">
@@ -12,7 +12,7 @@ const SolutionChallenge = () => {
                         <img src="assets/images/health-pass1.png"
                             className="absolute top-0 h-[28rem] md:h-[36rem] left-5 md:left-6 object-cover" alt="" />
                     </div>
-                    <div className="flex flex-col my-auto gap-3 p-4 md:gap-12">
+                    <div className="flex flex-col my-auto gap-3 px-3 py-4 md:gap-12">
                         <h2 className="font-bold text-lg md:text-2xl text-[#111111]">Track all your medical records by
                             adding passes
                         </h2>
@@ -23,7 +23,7 @@ const SolutionChallenge = () => {
                 </div>
                 {/* Validated active Passes */}
                 <div className="flex flex-col md:flex-row gap-4 md:gap-16">
-                    <div className="flex flex-col my-auto p-4 gap-4 md:gap-12">
+                    <div className="flex flex-col my-auto px-3 py-4 gap-4 md:gap-12">
                         <h2 className="font-bold text-lg md:text-2xl text-[#111111]">Validated active Passes
                         </h2>
                         <p className="text-base text-[#111111] font-[300]">a list of active passes are added to the app
@@ -46,7 +46,7 @@ const SolutionChallenge = () => {
                         <img src="assets/images/health-pass3.png"
                             className="absolute mx-auto top-0 h-[28rem] md:h-[36rem] left-6 md:left-2 lg:left-8 object-cover" alt="" />
                     </div>
-                    <div className="flex flex-col my-auto p-4 gap-3 md:gap-12">
+                    <div className="flex flex-col my-auto px-3 py-4 gap-3 md:gap-12">
                         <h2 className="font-bold text-lg md:text-2xl text-[#111111]">Detailed information about a medical
                             record.
                         </h2>
