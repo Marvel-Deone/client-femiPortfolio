@@ -1,9 +1,9 @@
 const SolutionPreview = () => {
     return (
         <div className="max-w-6xl mx-auto -translate-y-[10rem] md:-translate-y-[17.5rem]">
-            <h2 className="text-[#AD1124] font-semibold leading-4 text-base text-center mb-2 md:mb-0">
+            <h2 className="text-[#AD1124] font-semibold leading-4 text-base mt-5 text-center mb-2 md:mb-0">
                 Solution Preview</h2>
-            <div className="flex flex-col gap-8 md:gap-0 px-3">
+            <div className="flex flex-col gap-8 md:gap-0">
                 {/* select location */}
                 <div className="flex flex-col md:flex-row gap-3 md:gap-16">
                     <div className="relative w-fit mx-auto h-[28rem] md:h-[30rem] lg:h-[36rem] flex">
@@ -27,7 +27,7 @@ const SolutionPreview = () => {
                     </div>
                 </div>
                 {/* List of departure */}
-                <div className="flex flex-col md:flex-row gap-4 md:gap-16">
+                <div className="flex flex-col md:flex-row gap-4 md:gap-16 px-3">
                     <div className="md:hidden relative w-fit mx-auto h-[28rem] md:h-[36rem] flex">
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72  md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
@@ -50,7 +50,7 @@ const SolutionPreview = () => {
                     </div>
                 </div>
                 {/* Boarding Pass generated */}
-                <div className="flex flex-col md:flex-row gap-3 md:gap-16">
+                <div className="flex flex-col md:flex-row gap-3 md:gap-16 px-2">
                     <div className="relative w-fit mx-auto h-[28rem] md:h-[36rem] flex">
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>

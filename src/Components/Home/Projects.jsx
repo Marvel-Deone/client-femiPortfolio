@@ -35,7 +35,7 @@ const Projects = () => {
                 <div className="row justify-content-center">
                     <div className="col-md-10 col-lg-8">
                         <div className="section-title extra">
-                            <h2 className="title">Select Work </h2>
+                            <h2 className="title" style={{ fontSize: '30px' }}>Select Work </h2>
                             <p>
                             </p>
                         </div>

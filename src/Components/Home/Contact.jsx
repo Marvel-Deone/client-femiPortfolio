@@ -46,7 +46,7 @@ const Contact = () => {
                 <div className="row justify-content-center">
                     <div className="col-md-10 col-lg-8">
                         <div className="section-title">
-                            <h2 className="title">Can't wait to hear from you!! Let's design something spectacular</h2>
+                            <h2 className="title" style={{ fontSize: '30px' }}>Can't wait to hear from you!! Let's design something spectacular</h2>
                             <p>If you want to discuss your next project or if you're a recruiter or hiring manager with
                                 oppurtunities available. Please drop me a message.
                             </p>

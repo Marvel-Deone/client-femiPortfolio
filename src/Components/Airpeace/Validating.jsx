@@ -2,10 +2,10 @@ const Validating = () => {
     return (
         <div
             className="max-w-8xl mx-auto -translate-y-[7rem] md:-translate-y-[15rem] flex flex-col gap-3 md:gap-4 mb-20">
-            <div className="max-w-7xl px-4 lg:px-28 flex flex-col gap-4 md:mb-8">
-                <h2 className="text-[#AD1124] font-semibold leading-4 text-sm md:text-base mb-2 md:mb-0">Validating
+            <div className="max-w-7xl lg:px-24 flex flex-col gap-4 md:mb-8">
+                <h2 className="text-[#AD1124] px-3 font-semibold leading-4 text-sm md:text-base mb-2 md:mb-0">Validating
                     Product ideas with User Testing</h2>
-                <p className="text-sm md:text-base text-[#111111] font-[400]">I led a few moderated
+                <p className="text-sm md:text-base px-3 text-[#111111] font-[400]">I led a few moderated
                     usability
                     tests focusing on air travellers that frequently booked their own flights on a
                     travel site. We tried to find <br /> out how users responded to the application.

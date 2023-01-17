@@ -595,6 +595,22 @@
     transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1.3);
     opacity: 0; } }
 
+    #prototype_img2 {
+      display: none !important;
+    }
+
+    @media screen and (max-width: 425px) {
+      #prototype_img {
+        /* width: 80% !important;
+        height: 120px !important; */
+        /* background-color: yellow !important; */
+        display: none !important;
+      }
+      #prototype_img2 {
+        display: block !important;;
+      }
+    }
+
 @media only screen and (max-width: 991px) {
   #hero-title {
     font-size: 24px !important;
