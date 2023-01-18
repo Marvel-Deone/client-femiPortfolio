@@ -1,31 +1,33 @@
 const Validating = () => {
     return (
-        <div
-            className="max-w-8xl mx-auto -translate-y-[7rem] md:-translate-y-[15rem] flex flex-col gap-3 md:gap-4 mb-20">
-            <div className="max-w-7xl lg:px-24 flex flex-col gap-4 md:mb-8">
-                <h2 className="text-[#AD1124] px-3 font-semibold leading-4 text-sm md:text-base mb-2 md:mb-0">Validating
-                    Product ideas with User Testing</h2>
-                <p className="text-sm md:text-base px-3 text-[#111111] font-[400]">I led a few moderated
-                    usability
-                    tests focusing on air travellers that frequently booked their own flights on a
-                    travel site. We tried to find <br /> out how users responded to the application.
-                </p>
-            </div>
-            <div className="md:px-6 lg:px-8 xl:px-14">
-                <div className="bg-[#F5F4F3] p-6 md:p-10 lg:p-14">
-                    <p className="mt-1 md:mt-0">1.) I used Zoom and Google meet to conduct remote usability
-                        tests, due to long
-                        distances it was not possible to conduct face to face usability testing.</p>
-                    <p className="mt-1 md:mt-0">2.) The users were people that frequently booked their own
-                        flights on a travel site
+
+        <div className="-translate-y-[7rem] md:-translate-y-[15rem] md:mb-20">
+            <div
+                className="max-w-6xl mx-auto flex flex-col gap-3 md:gap-0 px-1">
+                <div className="flex flex-col gap-4 md:mb-8 px-3">
+                    <h2 className="text-[#AD1124] font-semibold leading-4 text-sm md:text-base mb-2 md:mb-0">Validating
+                        Product ideas with User Testing</h2>
+                    <p className="text-sm md:text-base text-[#111111] font-[400]">I led a few moderated
+                        usability
+                        tests focusing on air travellers that frequently booked their own flights on a
+                        travel site. We tried to find <br /> out how users responded to the application.
                     </p>
-                    <p className="mt-1 md:mt-0">3.) I presented the mobile app design and gave them a set of
-                        pre-defined tasks
-                        including to book a return flight from Lagos to Cape any destination of thier choice
-                        for 2 adults for 7 days. </p>
                 </div>
             </div>
+            <div className="max-w-6xl mx-auto bg-[#F5F4F3] p-6 md:p-8 lg:py-9" id="validating_list">
+                <p className="mt-1 md:mt-0">1.) I used Zoom and Google meet to conduct remote usability
+                    tests, due to long
+                    distances it was not possible to conduct face to face usability testing.</p>
+                <p className="mt-1 md:mt-0">2.) The users were people that frequently booked their own
+                    flights on a travel site
+                </p>
+                <p className="mt-1 md:mt-0">3.) I presented the mobile app design and gave them a set of
+                    pre-defined tasks
+                    including to book a return flight from Lagos to Cape any destination of thier choice
+                    for 2 adults for 7 days. </p>
+            </div>
         </div>
+
     )
 }
 

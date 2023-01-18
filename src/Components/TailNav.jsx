@@ -2,11 +2,11 @@ import { Link } from "react-router-dom"
 
 const TailNav = () => {
     return (
-        <header className="navigation">
+        <header className="navigation mb-5">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12 p-0">
-                        <nav className="navbar navbar-expand-lg justify-content-between navbar-light" id="my-nav1" style={{ paddingLeft: '70px' }}>
+                        <nav className="navbar navbar-expand-lg justify-content-between navbar-light" id="my-nav1" style={{ paddingLeft: '40px' }}>
                             <Link className="navbar-brand" to="/">
                                 <img src="assets/images/gcf2.png" alt="" width={150} />
                             </Link>

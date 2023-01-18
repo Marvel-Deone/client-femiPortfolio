@@ -49,7 +49,7 @@ const Research = () => {
                 {/* Research End */}
             </div>
             {/* Initial Competitive analysis */}
-            <div className="max-w-6xl mx-auto flex flex-col gap-3 md:gap-4">
+            <div className="max-w-6xl mx-auto flex flex-col gap-3 md:gap-4 px-2 mb-16">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-sm tracking-wide mb-2 md:mb-0">
                     Initial competitive analysis</h2>
                 <div className="flex flex-col gap-3">
@@ -96,57 +96,33 @@ const Research = () => {
                 </div>
             </div>
             {/* Focusing on the my target audience */}
-            <div className="max-w-6xl flex flex-col gap-3 lg:mt-28 md:gap-4">
+            <div className="max-w-6xl flex flex-col gap-3 md:gap-4 px-2">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-sm tracking-wide mb-2 md:mb-0 text-center">
                     Focusing on my target audience</h2>
-                <div className="flex flex-col gap-14 md:gap-16">
-                    <div className="flex flex-col md:gap-3 lg:gap-6">
-                        <p className="text-[#111111] text-base md:text-[20px] lg:text-[27px] font-[500] leading-snug mt-6">
-                            M/F , Age
-                            18-60, Students and working class who have full time jobs. </p>
-                        <p className="text-base text-[#111111]">This will give me extra information about what and how to
-                            create
-                            a
-                            suitable
-                            solution..
-                        </p>
-                        <div className="flex flex-col mx-auto md:mx-0 md:flex-row gap-3">
-                            <div
-                                className="p-3 rounded-2xl bg-[#F8EBED] w-[146px] h-[50px] text-center font-semibold text-gray-900">
-                                <p>Gen-z</p>
-                            </div>
-                            <div
-                                className="p-3 rounded-2xl bg-[#F8EBED] w-[144px] h-[50px] text-center font-semibold text-[#000000]">
-                                <p>Working class</p>
-                            </div>
-                            <div
-                                className="p-3 rounded-2xl bg-[#F8EBED] w-[146px] h-[50px] text-center font-semibold text-gray-900">
-                                <p>Students</p>
-                            </div>
-                            <div
-                                className="p-3 rounded-2xl bg-[#F8EBED] w-[146px] h-[50px] text-center font-semibold text-gray-900">
-                                <p>Millenials</p>
-                            </div>
-                        </div>
+                <p className="text-[#111111] text-base md:text-[20px] lg:text-[27px] font-[500] leading-snug mt-6"> M/F , Age
+                    18-60, Students and working class who have full time jobs. </p>
+                <p className="text-base text-[#111111]">This will give me extra information about what and how to
+                    create
+                    a
+                    suitable
+                    solution..
+                </p>
+                <div className="flex flex-col md:mx-0 md:flex-row gap-3">
+                    <div
+                        className="p-3 rounded-2xl bg-[#F8EBED] w-[146px] h-[50px] text-center font-semibold text-gray-900">
+                        <p>Gen-z</p>
                     </div>
-                    <div className="flex flex-col gap-3">
-                        <div className="flex flex-col gap-4">
-                            <h2 className="text-[#111111] font-semibold leading-4 text-lg md:text-2xl mb-2 md:mb-0">Design
-                            </h2>
-                            <h2 className="text-[#AD1124] font-bold leading-4 text-sm tracking-wide mb-2 md:mb-0">
-                                Wireframes & Iterations </h2>
-                        </div>
-                        <h2>Mobile app values: </h2>
-                        <p className="text-[#111111]">1.) Interesting copywriting</p>
-                        <p className="text-[#111111]">2.) Informative</p>
-                        <p className="text-[#111111]">3.) Straightforwardness</p>
+                    <div
+                        className="p-3 rounded-2xl bg-[#F8EBED] w-[144px] h-[50px] text-center font-semibold text-[#000000]">
+                        <p>Working class</p>
                     </div>
-                    {/* Image Section */}
-                    <div className="flex flex-col md:flex-row flex-wrap mx-auto md:mx-0 gap-12 md:mb-10">
-                        <img src="assets/images/Home.png" alt="" className="w-[170px] h-[368px]" />
-                        <img src="assets/images/Location Permission Request.png" alt="" />
-                        <img src="assets/images/Peace Advantage.png" alt="" />
-                        <img src="assets/images/Upcoming Trip.png" alt="" />
+                    <div
+                        className="p-3 rounded-2xl bg-[#F8EBED] w-[146px] h-[50px] text-center font-semibold text-gray-900">
+                        <p>Students</p>
+                    </div>
+                    <div
+                        className="p-3 rounded-2xl bg-[#F8EBED] w-[146px] h-[50px] text-center font-semibold text-gray-900">
+                        <p>Millenials</p>
                     </div>
                 </div>
             </div>
