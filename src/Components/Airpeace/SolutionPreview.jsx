@@ -1,6 +1,6 @@
 const SolutionPreview = () => {
     return (
-        <div className="max-w-6xl mx-auto -translate-y-[10rem] md:-translate-y-[17.5rem]">
+        <div className="max-w-6xl mx-auto -translate-y-[10rem] md:-translate-y-[12.5rem]">
             <h2 className="text-[#AD1124] font-semibold leading-4 text-base mt-5 mb-2 md:mb-0 px-7">
                 Solution Preview</h2>
 

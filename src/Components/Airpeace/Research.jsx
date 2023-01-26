@@ -1,6 +1,6 @@
 const Research = () => {
     return (
-        <div className="max-w-6xl mx-auto -translate-y-[10rem] md:-translate-y-[17.5rem] p-3 flex flex-col gap-3">
+        <div className="max-w-6xl mx-auto -translate-y-[10rem] md:-translate-y-[12.5rem] p-3 flex flex-col gap-3">
             <h2 className="text-[#111111] font-normal leading-4 text-lg md:text-2xl mb-2 md:mb-0">Research</h2>
             {/* Research Start */}
             <div className="flex flex-col gap-3 md:gap-4 mb-20">

@@ -1,7 +1,7 @@
 const FinalSol = () => {
     return (
         <div
-            className="max-w-full bg-[#ECEFF9] -translate-y-[14rem] md:-translate-y-[15rem] flex flex-col gap-16">
+            className="max-w-full bg-[#ECEFF9] -translate-y-[14rem] md:-translate-y-[10rem] flex flex-col gap-16">
             <div className="max-w-6xl mx-auto flex flex-col gap-7 md:mb-2 md:px-3">
                 <h2 className="text-[#AD1124] font-semibold leading-4 p-2 text-sm md:text-base mb-2 md:mb-0 mt-6">Final Solution</h2>
                 <p className="text-sm md:text-base text-[#111111] p-2 font-[400]">After usability testing, I gathered all the
