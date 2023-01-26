@@ -1,38 +1,31 @@
 const SolutionPreview = () => {
     return (
         <div className="max-w-6xl mx-auto -translate-y-[10rem] md:-translate-y-[17.5rem]">
-            <h2 className="text-[#AD1124] font-semibold leading-4 text-base mt-5 text-center mb-2 md:mb-0">
+            <h2 className="text-[#AD1124] font-semibold leading-4 text-base mt-5 mb-2 md:mb-0 px-7">
                 Solution Preview</h2>
+
             <div className="flex flex-col gap-8 md:gap-0">
                 {/* select location */}
                 <div className="flex flex-col md:flex-row gap-3 md:gap-16">
-                    <div className="relative w-fit mx-auto h-[28rem] md:h-[30rem] lg:h-[36rem] flex">
+                    <div className="relative w-fit mx-auto h-[28rem] md:h-[30rem] lg:h-[36rem] flex items-center px-2">
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
                         <img src="assets/images/14.png"
                             className="absolute mx-auto top-0 h-[28rem] md:h-[30rem] lg:h-[36rem] object-cover" alt="" />
                     </div>
                     <div className="flex flex-col my-auto gap-3 md:gap-12">
-                        <h2 className="font-bold text-lg md:text-2xl text-[#111111]">Select location of depature
-                            and
-                            arrival of
-                            flight.
+                        <h2 className="font-bold text-lg md:text-2xl text-[#111111]">A ready to use app, all accessible from your mobile phone.
                         </h2>
-                        <p className="text-base text-[#111111] font-[300]">Filtered and detailed for users of the app to
-                            choose
-                            from what
-                            city of
-                            departure to what city of
-                            arrival they are going.</p>
+                        <p className="text-base text-[#111111] font-[300]">Whether a user wants to Book a Flight, view Flight Status, Check in or Manage Bookings. </p>
                     </div>
                 </div>
                 {/* List of departure */}
                 <div className="flex flex-col md:flex-row gap-4 md:gap-16 px-3">
-                    <div className="md:hidden relative w-fit mx-auto h-[28rem] md:h-[36rem] flex">
+                    <div className="md:hidden relative w-fit mx-auto h-[28rem] md:h-[36rem] flex items-center">
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72  md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
                         <img src="assets/images/2.png"
-                            className="absolute mx-auto top-0 h-[28rem] md:h-[36rem] object-cover" alt="" />
+                            className="absolute top-0 h-[28rem] md:h-[36rem] object-cover" alt="" />
                     </div>
                     <div className="flex flex-col my-auto gap-4 md:gap-12">
                         <h2 className="font-bold text-lg md:text-2xl text-[#111111]">List of departure city and
@@ -46,7 +39,7 @@ const SolutionPreview = () => {
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72  md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
                         <img src="assets/images/2.png"
-                            className="absolute mx-auto top-0 h-[28rem] md:h-[36rem] object-cover" alt="" />
+                            className="absolute mx-auto left-[0.625rem] top-0 h-[28rem] md:h-[36rem] object-cover" alt="" />
                     </div>
                 </div>
                 {/* Boarding Pass generated */}
@@ -55,13 +48,12 @@ const SolutionPreview = () => {
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
                         <img src="assets/images/airpeace-3.png"
-                            className="absolute mx-auto top-0 h-[28rem] md:h-[36rem] object-cover" alt="" />
+                            className="absolute mx-auto top-0 left-[0.6rem] h-[28rem] md:h-[36rem] object-cover" alt="" />
                     </div>
                     <div className="flex flex-col my-auto gap-3 md:gap-12">
-                        <h2 className="font-bold text-lg md:text-2xl text-[#111111]">Boarding pass generated.
+                        <h2 className="font-bold text-lg md:text-2xl text-[#111111]">View Upcoming Trip.
                         </h2>
-                        <p className="text-base text-[#111111] font-[300]">Filtered and detailed for users of the app to
-                            choose from what city of departure to what city of arrival they are going.</p>
+                        <p className="text-base text-[#111111] font-[300]">Air Travellers can view details of their next trip. from the date to the time and also the flight number.</p>
                     </div>
                 </div>
             </div>

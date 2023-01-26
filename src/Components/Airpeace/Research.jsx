@@ -4,7 +4,7 @@ const Research = () => {
             <h2 className="text-[#111111] font-normal leading-4 text-lg md:text-2xl mb-2 md:mb-0">Research</h2>
             {/* Research Start */}
             <div className="flex flex-col gap-3 md:gap-4 mb-20">
-                <h2 className="text-[#AD1124] font-semibold leading-4 text-sm md:text-base md:text-center mb-2 md:mb-0">
+                <h2 className="text-[#AD1124] font-semibold leading-4 text-sm md:text-base mb-2 md:mb-0">
                     Exploring user
                     pain points</h2>
                 <div className="flex flex-col gap-16">
@@ -97,9 +97,9 @@ const Research = () => {
             </div>
             {/* Focusing on the my target audience */}
             <div className="max-w-6xl flex flex-col gap-3 md:gap-4 px-2">
-                <h2 className="text-[#AD1124] font-semibold leading-4 text-sm tracking-wide mb-2 md:mb-0 text-center">
+                <h2 className="text-[#AD1124] font-semibold leading-4 text-sm tracking-wide mb-2 md:mb-0">
                     Focusing on my target audience</h2>
-                <p className="text-[#111111] text-base md:text-[20px] lg:text-[27px] font-[500] leading-snug mt-6"> M/F , Age
+                <p className="text-[#111111] text-base font-semibold md:text-[20px] lg:text-[27px] font-[500] leading-snug mt-6"> M/F , Age
                     18-60, Students and working class who have full time jobs. </p>
                 <p className="text-base text-[#111111]">This will give me extra information about what and how to
                     create

@@ -1,7 +1,7 @@
 const Overview = () => {
     return (
         <div
-            className="max-w-full flex mx-auto bg-[#DCDDE1] -translate-y-[10rem] md:-translate-y-[17.5rem] h-auto md:py-16">
+            className="max-w-full flex mx-auto bg-[#ECEFF9] -translate-y-[10rem] md:-translate-y-[12.5rem] h-auto md:py-16">
             <div className="max-w-6xl mx-auto px-3 py-6 md:py-0 flex flex-col gap-10">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-base">Overview</h2>
                 <h2 className="text-base md:text-2xl leading-snug text-[#111111] font-semibold">An Online airline booking
