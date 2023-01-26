@@ -1,8 +1,9 @@
 // import { Helmet } from "react-helmet"
 import Script from "@gumgum/react-script-tag";
 import Footer from "../Components/Footer";
-import Definition from "../Components/Healthpass/Definition";
+// import Definition from "../Components/Healthpass/Definition";
 import Design from "../Components/Healthpass/Design";
+import Hero from "../Components/Healthpass/Hero";
 import NextProject from "../Components/Healthpass/NextProject";
 import Overview from "../Components/Healthpass/Overview";
 import Prototype from "../Components/Healthpass/Prototype";
@@ -15,10 +16,11 @@ const HealthPass = () => {
         <>
             <Script src="https://cdn.tailwindcss.com"></Script>
             <TailNav />
+            <Hero />
             <Overview />
             <Design />
             <SolutionChallenge />
-            <Definition />
+            {/* <Definition /> */}
             <Prototype />
             <Takeaway />
             <NextProject />

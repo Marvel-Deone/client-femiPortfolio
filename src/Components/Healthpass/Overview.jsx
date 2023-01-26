@@ -1,6 +1,6 @@
 const Overview = () => {
     return (
-        <div className="max-w-full flex mx-auto h-auto py-24 md:py-16 lg:py-36 mt-10">
+        <div className="max-w-full flex mx-auto bg-[#E9F1FC] h-auto py-24 md:py-16 lg:py-36 mt-10 -translate-y-[10rem] md:-translate-y-[15.5rem]">
             <div className="max-w-6xl px-3 mx-auto py-6  md:py-0 flex flex-col gap-14">
                 <h2 className="text-[#111111] font-semibold leading-4 text-base">Overview</h2>
                 <h2 className="text-base md:text-xl leading-snug text-[#111111] font-semibold">A mobile app called the

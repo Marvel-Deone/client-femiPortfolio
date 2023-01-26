@@ -2,7 +2,7 @@ import React from 'react'
 
 const Prototype = () => {
     return (
-        <div className="max-w-6xl mx-auto px-3 py-4 md:px-20 mb-10 lg:mb-20">
+        <div className="max-w-6xl mx-auto px-3 py-4 md:px-20 mb-10 lg:mb-20 -translate-y-[10rem] md:-translate-y-[15.5rem]">
             <div className="flex flex-col gap-8 md:gap-0">
                 <div className="flex flex-col md:flex-row gap-4 md:gap-16">
                     <div className="flex flex-col my-auto gap-4">
