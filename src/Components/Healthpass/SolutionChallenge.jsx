@@ -1,6 +1,6 @@
 const SolutionChallenge = () => {
     return (
-        <div className="max-w-6xl mx-auto md:py-20">
+        <div className="max-w-6xl mx-auto md:py-20 mb-2">
             <h2 className="text-[#111111] p-3 font-semibold leading-4 text-base mb-2">
                 What i did</h2>
             <div className="flex flex-col gap-8 md:gap-0">
