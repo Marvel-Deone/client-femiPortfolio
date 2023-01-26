@@ -7,13 +7,19 @@ const FinalSol = () => {
                 <p className="text-sm md:text-base text-[#111111] p-2 font-[400]">After usability testing, I gathered all the
                     feedbacks and came up with high fidelity designs.
                 </p>
-                <div className="flex flex-col md:flex-row mx-auto flex-wrap gap-16">
-                    <img src="assets/images/group 4.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
-                    <img src="assets/images/group 5.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
-                    <img src="assets/images/group 6.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
-                    <img src="assets/images/group 9.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
+                <p className="text-sm md:text-base text-[#111111] p-2 font-semibold">Search Flight flow
+                </p>
+                <div className="flex flex-col mx-auto flex-wrap">
+                    <img src="assets/images/group 4.png" alt="" />
+                    <p className="text-sm md:text-base text-[#111111] p-2 font-semibold mb-2">Flight Status Flow
+                    </p>
+                    <img src="assets/images/group 5.png" alt="" />
+                    <p className="text-sm md:text-base text-[#111111] p-2 font-semibold mb-3 mt-20">Other Screens
+                    </p>
+                    <img src="assets/images/group 6.png" alt="" className="mb-20" />
+                    {/* <img src="assets/images/group 9.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
                     <img src="assets/images/group 10.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
-                    <img src="assets/images/group 11.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
+                    <img src="assets/images/group 11.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" /> */}
                     {/* <img src="assets/images/port-harcourt.png" alt="" className="w-72 h-fit"/> */}
                 </div>
             </div>
