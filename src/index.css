@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'AvertaStd-Regular';
-  src: url('C:\Users\hp\Downloads\Averta_Standard-www.Dfonts.org\Averta_Standard-www.Dfonts.org\AvertaStd-Regular.ttf');
+  src: url(/public/assets/fonts/font/AvertaStd-Regular.ttf) format('truetype');
 }
 
 body {
