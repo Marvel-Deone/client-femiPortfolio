@@ -8,7 +8,7 @@ const NextProject = () => {
                         <img src="assets/images/1576.png" alt="" />
                     </div>
                     <div className="bg-[#FFFFFF] shadow-lg rounded-l w-full md:w-[370px] px-10 py-6">
-                        <span className="text-[#111111] text-[18px]">Health Pass</span>
+                        <a href="/airpeace-case-study"><span className="text-[#111111] text-[18px]">Air Peace</span></a>
                     </div>
                 </div>
 
@@ -16,7 +16,7 @@ const NextProject = () => {
                     <div className="flex mx-auto items-center bg-[#1890FFB2] w-[90px] h-[80px]">
                         <img src="assets/images/search-page.png" className="ml-[0.75rem]" alt="" />
                     </div>
-                    <div className="bg-[#FFFFFF] shadow-lg rounded-l w-full md:w-[370px] px-10 py-6">
+                    <div className="bg-[#FFFFFF] shadow-lg rounded-l w-full md:w-[370px] px-10 py-6 cursor-not-allowed">
                         <span className="text-[#111111] text-[18px]">Nautic</span>
                     </div>
                 </div>

@@ -652,6 +652,7 @@
     direction: ltr; } 
   };
 
+
   @media (min-width: 900px) {
     #design_view {
       background-color: yellow !important;

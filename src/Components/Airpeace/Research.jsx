@@ -21,7 +21,7 @@ const Research = () => {
                             flight
                             ticket?”</p>
                     </div>
-                    <div className="flex mx-auto flex-col md:flex-row gap-6 flex-wrap">
+                    <div className="flex flex-col md:flex-row gap-6 flex-wrap">
                         <div
                             className="w-52 h-52 bg-[#F5E9EA] rounded-full flex flex-col text-center justify-center px-4 py-3 gap-2">
                             <h2 className="text-4xl font-semibold text-[#111111]">84%</h2>
@@ -124,6 +124,25 @@ const Research = () => {
                         className="p-3 rounded-2xl bg-[#F8EBED] w-[146px] h-[50px] text-center font-semibold text-gray-900">
                         <p>Millenials</p>
                     </div>
+                </div>
+                <div className="flex flex-col gap-3 p-2 mt-4">
+                    <div className="flex flex-col gap-4">
+                        <h2 className="text-[#111111] font-semibold leading-4 text-lg md:text-2xl mb-2 md:mb-0">Design
+                        </h2>
+                        <h2 className="text-[#AD1124] font-bold leading-4 text-sm tracking-wide mb-2 md:mb-0">
+                            Wireframes & Iterations </h2>
+                    </div>
+                    <h2>Mobile app values: </h2>
+                    <p className="text-[#111111]">1.) Interesting copywriting</p>
+                    <p className="text-[#111111]">2.) Informative</p>
+                    <p className="text-[#111111]">3.) Straightforwardness</p>
+                </div>
+                {/* Image Section */}
+                <div className="flex flex-col md:flex-row flex-wrap md:mx-0 gap-12 md:mb-10 mt-2">
+                    <img src="assets/images/Home.png" alt="" className="w-[170px] h-[368px]" />
+                    <img src="assets/images/Location Permission Request.png" alt="" />
+                    <img src="assets/images/Peace Advantage.png" alt="" />
+                    <img src="assets/images/Upcoming Trip.png" alt="" />
                 </div>
             </div>
         </div>
