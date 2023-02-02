@@ -15,7 +15,7 @@ import TailNav from "../Components/TailNav";
 const Airpeace = () => {
 
     return (
-        <div>
+        <div className="h-[97vh]">
             <Script src="https://cdn.tailwindcss.com"></Script>
             {/* <Helmet>
                 <script src="https://cdn.tailwindcss.com"></cript>

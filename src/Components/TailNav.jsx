@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 
 const TailNav = () => {
     return (
-        <header className="navigation mb-5">
+        <header className="navigation mb-5 bg-white">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12 p-0">

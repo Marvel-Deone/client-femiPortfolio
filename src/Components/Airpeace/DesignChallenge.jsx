@@ -5,7 +5,7 @@ const DesignChallenge = () => {
             <div className="max-w-6xl mx-auto px-3 py-6 md:py-0 flex flex-col gap-7">
                 <h2 className="font-semibold leading-4 text-base text-[#AD1124]">Design Challenge</h2>
                 <div className="flex flex-col gap-3">
-                    <p className="text-sm md:text-[16px] leading-loose text-white font-[200]">In the past few years, the
+                    <p className="text-sm md:text-[15px] leading-loose text-white font-[200]">In the past few years, the
                         Aviation sector
                         in Nigeria has
                         witnessed a gradual increase in domestic and international flights and the use of online booking

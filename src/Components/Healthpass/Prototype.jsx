@@ -2,8 +2,8 @@ import React from 'react'
 
 const Prototype = () => {
     return (
-        <div className="max-w-6xl mx-auto px-3 py-4 md:px-20 mb-10 lg:mb-20 -translate-y-[10rem] md:-translate-y-[15.5rem]">
-            <div className="flex flex-col gap-8 md:gap-0">
+        <div className="max-w-6xl mx-auto mb-10 lg:mb-20 -translate-y-[10rem] md:-translate-y-[11.5rem]">
+            {/* <div className="flex flex-col gap-8 md:gap-0">
                 <div className="flex flex-col md:flex-row gap-4 md:gap-16">
                     <div className="flex flex-col my-auto gap-4">
                         <div>
@@ -18,7 +18,8 @@ const Prototype = () => {
                         <img src="assets/images/arrow.png" alt="" className="w-[24px] h-[25px] flex items-center" />
                     </div>
                 </div>
-            </div>
+            </div> */}
+            <button button className="flex mx-auto cursor-pointer bg-[#2B539F] text-white text-[14px] p-[15px] text-center rounded-sm hover:text-[#2B539F] hover:bg-transparent hover:b hover:b-[#2B539F]" > <a href="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcQsrCQOIi3PODesP1jeU5B%2Fhealth-pass-new%3Fpage-id%3D0%253A1%26node-id%3D1%253A433%26viewport%3D468%252C211%252C0.13%26scaling%3Dcontain%26starting-point-node-id%3D1%253A433">Link to final Prototype</a></button >
         </div>
     )
 }

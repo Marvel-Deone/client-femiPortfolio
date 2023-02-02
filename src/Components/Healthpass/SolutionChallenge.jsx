@@ -1,9 +1,9 @@
 const SolutionChallenge = () => {
     return (
-        <div className="max-w-6xl mx-auto md:py-20 mb-2 -translate-y-[10rem] md:-translate-y-[15.5rem]">
+        <div className="max-w-6xl mx-auto md:py-20 -translate-y-[10rem] md:-translate-y-[15.5rem]">
             <h2 className="text-[#111111] p-3 font-semibold leading-4 text-base mb-2">
-                What i did</h2>
-            <div className="flex flex-col gap-8 md:gap-0">
+                Solution Preview</h2>
+            <div className="flex flex-col gap-36 md:gap-0">
                 {/* select location */}
                 <div className="flex flex-col md:flex-row gap-3 md:gap-56">
                     <div className="relative w-fit items-center h-[28rem] md:h-[36rem] flex">
@@ -26,7 +26,7 @@ const SolutionChallenge = () => {
                     <div className="flex flex-col my-auto px-3 py-4 gap-4 md:gap-12">
                         <h2 className="font-bold text-lg md:text-2xl text-[#111111]">Validated active Passes
                         </h2>
-                        <p className="text-base text-[#111111] font-[300] w-full md:w-[28rem]">a list of active passes are added to the app
+                        <p className="text-base text-[#111111] font-[300] w-full md:w-[29rem]">a list of active passes are added to the app
                             wallet. this passes show the several records of health statuses of a patient. this enables
                             health facilities to track.</p>
                     </div>
@@ -47,10 +47,10 @@ const SolutionChallenge = () => {
                             className="absolute mx-auto top-0 h-[28rem] md:h-[36rem] left-6 md:left-2 lg:left-8 object-cover" alt="" />
                     </div>
                     <div className="flex flex-col my-auto px-3 py-4 gap-3 md:gap-12">
-                        <h2 className="font-bold text-lg md:text-2xl text-[#111111] w-full md:w-[28rem]">Detailed information about a medical
+                        <h2 className="font-bold text-lg md:text-2xl text-[#111111] w-full md:w-[29rem]">Detailed information about a medical
                             record.
                         </h2>
-                        <p className="text-base text-[#111111] font-[300] w-full md:w-[28rem]">Here one can get full details regarding one’s
+                        <p className="text-base text-[#111111] font-[300] w-full md:w-[29rem]">Here one can get full details regarding one’s
                             medical record such as last screening test results , health status in just a single scan.
                             this feature is mosly used by health and public facilities to monitor the outbreak of
                             diseases in the society.</p>
@@ -63,6 +63,7 @@ const SolutionChallenge = () => {
                     </div>
                 </div>
             </div>
+            <button button className="flex mt-28 focus:outline-0 transition-all ease-in-out duration-300 mx-auto cursor-pointer bg-[#2B539F] text-white text-[14px] px-[15px] py-[14px] text-center rounded-md hover:bg-blue-600" > <a className="text-white" href="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcQsrCQOIi3PODesP1jeU5B%2Fhealth-pass-new%3Fpage-id%3D0%253A1%26node-id%3D1%253A433%26viewport%3D468%252C211%252C0.13%26scaling%3Dcontain%26starting-point-node-id%3D1%253A433" target="_blank" rel="noreferrer">Link to final Prototype</a></button >
         </div>
     )
 }
