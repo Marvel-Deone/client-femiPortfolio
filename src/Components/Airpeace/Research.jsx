@@ -47,7 +47,7 @@ const Research = () => {
                 {/* Research End */}
             </div>
             {/* Initial Competitive analysis */}
-            <div className="max-w-6xl mx-auto flex flex-col gap-3 md:gap-4 px-2 mb-14 md:mb-32">
+            <div className="max-w-6xl mx-auto flex flex-col gap-3 md:gap-4 px-2 mb-8 md:mb-32">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-sm tracking-wide mb-2 md:mb-0">
                     Initial competitive analysis</h2>
                 <div className="flex flex-col gap-3">
