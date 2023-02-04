@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
         <div
-            className="max-w-7xl mx-auto flex flex-col gap-5 md:gap-8 mb-6 lg:mb-12 -translate-y-[10rem] md:-translate-y-[10.5rem]">
+            className="max-w-7xl mx-auto flex flex-col gap-5 md:gap-8 mb-6 lg:mb-12 md:-translate-y-[10.5rem]">
             <hr className="w-full md:max-w-2xl border-[#7F7F7F] flex mx-auto" />
             <h2 className="text-center font-[500] text-2xl text-[#000000]">Let’s Connect !</h2>
             <div className="flex gap-10 mx-auto items-center">
