@@ -1,8 +1,8 @@
 const NextProject = () => {
     return (
-        <div className="max-w-6xl flex flex-col gap-11 mx-auto p-3 md:px-20 mb-10 lg:mb-20 h-[10px] -translate-y-[10rem] md:-translate-y-[25rem]">
+        <div className="max-w-6xl flex flex-col gap-11 mx-auto p-3 md:px-20 mb-52 lg:mb-20 h-[10px] -translate-y-[8rem] md:-translate-y-[25rem]">
             <h2 className="font-normal leading-4 text-base uppercase">More Projects</h2>
-            <div className="flex flex-col md:flex-row gap-20">
+            <div className="flex flex-col md:flex-row gap-16 md:gap-20">
                 <div className="flex">
                     <div className="flex items-center bg-[#C8D1EE] w-[90px] h-[80px]">
                         <img src="assets/images/1576.png" alt="" />

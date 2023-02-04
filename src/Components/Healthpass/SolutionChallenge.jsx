@@ -3,7 +3,7 @@ const SolutionChallenge = () => {
         <div className="max-w-6xl mx-auto md:py-20 -translate-y-[10rem] md:-translate-y-[15.5rem]">
             <h2 className="text-[#111111] p-3 font-semibold leading-4 text-base mb-2">
                 Solution Preview</h2>
-            <div className="flex flex-col gap-36 md:gap-0">
+            <div className="flex flex-col gap-16 md:gap-0">
                 {/* select location */}
                 <div className="flex flex-col md:flex-row gap-3 md:gap-56">
                     <div className="relative w-fit items-center h-[28rem] md:h-[36rem] flex">
@@ -55,7 +55,7 @@ const SolutionChallenge = () => {
                             this feature is mosly used by health and public facilities to monitor the outbreak of
                             diseases in the society.</p>
                     </div>
-                    <div className="md:hidden relative w-fit mx-auto items-center h-[28rem] md:h-[36rem] flex">
+                    <div className="lg:hidden relative w-fit mx-auto items-center h-[28rem] md:h-[36rem] flex">
                         <div className="rounded-full bg-[#E9F1FC] w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
                         <img src="assets/images/health-pass3.png"

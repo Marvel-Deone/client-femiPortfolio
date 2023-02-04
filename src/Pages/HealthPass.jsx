@@ -13,7 +13,7 @@ import TailNav from "../Components/TailNav";
 
 const HealthPass = () => {
     return (
-        <div className="h-[95vh]">
+        <div className="h-full md:h-[95vh]">
             <Script src="https://cdn.tailwindcss.com"></Script>
             <TailNav />
             <Hero />
