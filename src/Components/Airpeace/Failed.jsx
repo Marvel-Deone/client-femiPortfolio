@@ -1,6 +1,6 @@
 const Failed = () => {
     return (
-        <div className="-translate-y-[7rem] md:-translate-y-[10rem]">
+        <div className="-translate-y-[9rem] md:-translate-y-[10rem]">
             <div
                 className="max-w-6xl mx-auto flex flex-col gap-3 md:gap-0 px-1">
                 <div className="flex flex-col gap-4 px-3">
