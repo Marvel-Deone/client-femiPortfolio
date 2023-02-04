@@ -47,7 +47,7 @@ const Research = () => {
                 {/* Research End */}
             </div>
             {/* Initial Competitive analysis */}
-            <div className="max-w-6xl mx-auto flex flex-col gap-3 md:gap-4 px-2 mb-32">
+            <div className="max-w-6xl mx-auto flex flex-col gap-3 md:gap-4 px-2 mb-16 md:mb-32">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-sm tracking-wide mb-2 md:mb-0">
                     Initial competitive analysis</h2>
                 <div className="flex flex-col gap-3">
@@ -78,7 +78,7 @@ const Research = () => {
                             pulled insights from the top (3) three domestic airlines in Nigeria which are Arik, Dana and
                             Aero contractors. </p>
                         <p
-                            className="lg:hidden text-[#111111] bg-red-500 text-sm md:text-base font-[400] tracking-10 w-full md:h-44 leading-snug p-2 md:p-0">
+                            className="lg:hidden text-[#111111] text-sm md:text-base font-[400] tracking-10 w-full md:h-44 leading-snug p-2 md:p-0">
                             I
                             thought
                             to
