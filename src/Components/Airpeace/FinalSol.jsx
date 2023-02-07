@@ -10,13 +10,13 @@ const FinalSol = () => {
                 <p className="text-sm md:text-base text-[#111111] p-2 font-semibold mt-4 mb-3">Search Flight flow
                 </p>
                 <div className="flex flex-col mx-auto flex-wrap">
-                    <img src="assets/images/group 4.png" alt="" />
+                    <img src="assets/images/group15.png" alt="" />
                     <p className="text-sm md:text-base text-[#111111] p-2 font-semibold mb-2">Flight Status Flow
                     </p>
-                    <img src="assets/images/group 5.png" alt="" />
+                    <img src="assets/images/group16.png" alt="" />
                     <p className="text-sm md:text-base text-[#111111] p-2 font-semibold mb-3 mt-20">Other Screens
                     </p>
-                    <img src="assets/images/group 6.png" alt="" className="mb-20" />
+                    <img src="assets/images/group17.png" alt="" className="mb-20" />
                     {/* <img src="assets/images/group 9.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
                     <img src="assets/images/group 10.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
                     <img src="assets/images/group 11.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" /> */}
