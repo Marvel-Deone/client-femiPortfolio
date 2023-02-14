@@ -19,7 +19,7 @@ const Prototype = () => {
                     </div>
                 </div>
             </div> */}
-            <button button className="flex mx-auto cursor-pointer bg-[#2B539F] text-white text-[14px] p-[15px] text-center rounded-sm hover:text-[#2B539F] hover:bg-transparent hover:b hover:b-[#2B539F]" > <a href="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcQsrCQOIi3PODesP1jeU5B%2Fhealth-pass-new%3Fpage-id%3D0%253A1%26node-id%3D1%253A433%26viewport%3D468%252C211%252C0.13%26scaling%3Dcontain%26starting-point-node-id%3D1%253A433">Link to final Prototype</a></button >
+            <button button className="flex mx-auto cursor-pointer bg-[#2B539F] hover:bg-[#2B539F] text-white text-[14px] p-[15px] text-center rounded-sm hover:text-[#2B539F] hover:bg-transparent hover:b hover:b-[#2B539F]" > <a href="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcQsrCQOIi3PODesP1jeU5B%2Fhealth-pass-new%3Fpage-id%3D0%253A1%26node-id%3D1%253A433%26viewport%3D468%252C211%252C0.13%26scaling%3Dcontain%26starting-point-node-id%3D1%253A433">Link to finalss Prototype</a></button >
         </div>
     )
 }

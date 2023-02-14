@@ -63,7 +63,7 @@ const SolutionChallenge = () => {
                     </div>
                 </div>
             </div>
-            <button button className="flex mt-28 focus:outline-0 transition-all ease-in-out duration-300 mx-auto cursor-pointer bg-[#2B539F] text-white text-[14px] px-[15px] py-[14px] text-center rounded-md hover:bg-blue-600" > <a className="text-white" href="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcQsrCQOIi3PODesP1jeU5B%2Fhealth-pass-new%3Fpage-id%3D0%253A1%26node-id%3D1%253A433%26viewport%3D468%252C211%252C0.13%26scaling%3Dcontain%26starting-point-node-id%3D1%253A433" target="_blank" rel="noreferrer">Link to final Prototype</a></button >
+            <button button className="flex mt-28 focus:outline-0 transition-all ease-in-out duration-500 mx-auto cursor-pointer bg-[#2B539F] transition-all ease-in-out duration-300 hover:bg-[#1b3565] text-white text-[14px] px-[15px] py-[14px] text-center rounded-md hover:bg-blue-900" > <a className="text-white" href="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcQsrCQOIi3PODesP1jeU5B%2Fhealth-pass-new%3Fpage-id%3D0%253A1%26node-id%3D1%253A433%26viewport%3D468%252C211%252C0.13%26scaling%3Dcontain%26starting-point-node-id%3D1%253A433" target="_blank" rel="noreferrer">Link to final Prototype</a></button >
         </div>
     )
 }
