@@ -43,8 +43,8 @@ const SolutionChallenge = () => {
                     <div className="hidden md:flex relative w-fit items-center h-[28rem] md:h-[36rem] flex">
                         <div className="rounded-full bg-[#E9F1FC] w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
-                        <img src="assets/images/health-pass3.png"
-                            className="absolute mx-auto top-0 h-[28rem] md:h-[36rem] left-6 md:left-2 lg:left-8 object-cover" alt="" />
+                        <img src="assets/images/dwd.png"
+                            className="absolute mx-auto top-0 h-[28rem] md:h-[36rem] left-2 object-cover" alt="" />
                     </div>
                     <div className="flex flex-col my-auto px-3 py-4 gap-3 md:gap-12">
                         <h2 className="font-bold text-lg md:text-2xl text-[#111111] w-full md:w-[29rem]">Detailed information about a medical
@@ -58,7 +58,7 @@ const SolutionChallenge = () => {
                     <div className="lg:hidden relative w-fit mx-auto items-center h-[28rem] md:h-[36rem] flex">
                         <div className="rounded-full bg-[#E9F1FC] w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
-                        <img src="assets/images/health-pass3.png"
+                        <img src="assets/images/dwd.png"
                             className="absolute mx-auto top-0 h-[28rem] md:h-[36rem] left-6 md:left-2 lg:left-8 object-cover" alt="" />
                     </div>
                 </div>

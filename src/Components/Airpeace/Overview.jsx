@@ -13,10 +13,10 @@ const Overview = () => {
                 <p className="text-[#111111] text-sm md:text-xl leading-8 font-[300]">I believe that improving the search
                     and booking
                     process
-                    for people who will travel, [will improve
-                    their understanding of using the booking app for booking flights], therefore [users are more likely
+                    for people who will travel, will improve
+                    their understanding of using the booking app for booking flights, therefore users are more likely
                     to finish the booking process which will reduce the number of cart abandonments for the booking
-                    app].</p>
+                    app.</p>
                 <div className="flex gap-5 md:gap-52">
                     <div className="flex flex-col gap-1">
                         <h3 className="font-semibold text-base leading-7 text-[#111111]">Role</h3>
