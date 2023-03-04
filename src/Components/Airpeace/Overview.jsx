@@ -10,7 +10,7 @@ const Overview = () => {
                     enable people
                     to search and book flights
                     with ease.</h2>
-                <p className="text-[#111111] text-sm md:text-xl leading-8 font-[300]">I believe that improving the search
+                <p className="text-[#111111] text-sm md:text-xl xl:text-2xl leading-8 font-[300]">I believe that improving the search
                     and booking
                     process
                     for people who will travel, will improve

@@ -629,6 +629,7 @@
   
   .hero-area {
     padding: 95px 0px 150px !important;
+    background-color: #0a1730 !important;
   }
   .about-heading{
     font-size: 16px !important;
@@ -651,6 +652,10 @@
     transform: rotate(-180deg);
     direction: ltr; } 
   };
+
+  .HMW_leading-4 {
+    line-height: 5rem !important;
+  }
 
 
   @media (min-width: 900px) {

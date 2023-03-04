@@ -22,7 +22,7 @@ const DesignChallenge = () => {
                 </div>
             </div>
             <div className="max-w-6xl flex mx-auto px-3 py-10">
-                <h2 className="text-white  text-[14px] md:text-2xl text-bold">HMW encourage easy and seamless purchase of air
+                <h2 className="text-white HMW_leading-4 text-[14px] md:text-2xl text-bold">HMW encourage easy and seamless purchase of air
                     tickets
                     by
                     air
