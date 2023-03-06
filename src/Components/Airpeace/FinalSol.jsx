@@ -12,20 +12,20 @@ const FinalSol = () => {
                 <div className="flex flex-col mx-auto flex-wrap">
                     {/* Group 1 */}
                     <div className="flex gap-12 mb-20">
-                        <img src="assets/images/group1a.png" className="w-[16rem]" alt="" />
-                        <img src="assets/images/group1b.png" className="w-[16rem]" alt="" />
-                        <img src="assets/images/group1c.png" className="w-[16rem]" alt="" />
-                        <img src="assets/images/group1d.png" className="w-[16rem]" alt="" />
+                        <img src="assets/images/group1a.png" className="w-[14rem] h-auto" alt="" />
+                        <img src="assets/images/group1b.png" className="w-[14rem] h-auto" alt="" />
+                        <img src="assets/images/group1c.png" className="w-[14rem] h-auto" alt="" />
+                        <img src="assets/images/group1d.png" className="w-[14rem] h-auto" alt="" />
                     </div>
                     {/* <img src="assets/images/group15.png" alt="" /> */}
                     <p className="text-sm md:text-base text-[#111111] p-2 font-semibold mb-8">Flight Status Flow
                     </p>
                     {/* Group 2 */}
                     <div className="flex gap-12">
-                        <img src="assets/images/group2a.png" className="w-[16rem]" alt="" />
-                        <img src="assets/images/group2b.png" className="w-[16rem]" alt="" />
-                        <img src="assets/images/group2c.png" className="w-[16rem]" alt="" />
-                        <img src="assets/images/group2d.png" className="w-[16rem]" alt="" />
+                        <img src="assets/images/group2a.png" className="w-[14rem] h-auto" alt="" />
+                        <img src="assets/images/group2b.png" className="w-[14rem] h-auto" alt="" />
+                        <img src="assets/images/group2c.png" className="w-[14rem] h-auto" alt="" />
+                        <img src="assets/images/group2d.png" className="w-[14rem] h-auto" alt="" />
                     </div>
                     {/* <img src="assets/images/group16.png" alt="" /> */}
                     <p className="text-sm md:text-base text-[#111111] p-2 font-semibold mb-3 mt-20">Other Screens
@@ -33,10 +33,10 @@ const FinalSol = () => {
 
                     {/* Group 2 */}
                     <div className="flex gap-12 mb-20">
-                        <img src="assets/images/group3a.png" className="w-[16rem]" alt="" />
-                        <img src="assets/images/group3b.png" className="w-[16rem]" alt="" />
-                        <img src="assets/images/group3c.png" className="w-[16rem]" alt="" />
-                        <img src="assets/images/group3d.png" className="w-[16rem]" alt="" />
+                        <img src="assets/images/group3a.png" className="w-[14rem] h-auto" alt="" />
+                        <img src="assets/images/group3b.png" className="w-[14rem] h-auto" alt="" />
+                        <img src="assets/images/group3c.png" className="w-[14rem] h-auto" alt="" />
+                        <img src="assets/images/group3d.png" className="w-[14rem] h-auto" alt="" />
                     </div>
 
                     {/* <img src="assets/images/group17.png" alt="" className="mb-20" /> */}
